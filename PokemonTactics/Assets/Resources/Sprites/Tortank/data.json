@@ -1,0 +1,13 @@
+{
+  "_desc": "Tortank",
+  "PointsDeVie": 50,
+  "PointsDeMouvement": 4,
+  "PointsDAction": 4,
+  "Attaque": 40,
+  "Defense": 40,
+  "Vitesse": 25,
+  "ValeursFaiblesses": [
+    1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5
+  ],
+  "Attaques": ["Hydrocanon"]
+}

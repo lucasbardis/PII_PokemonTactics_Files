@@ -1,0 +1,13 @@
+{
+  "_desc": "Dracaufeu",
+  "PointsDeVie": 45,
+  "PointsDeMouvement": 5,
+  "PointsDAction": 5,
+  "Attaque": 35,
+  "Defense": 35,
+  "Vitesse": 30,
+  "ValeursFaiblesses": [
+    1, 0.5, 2, 0.25, 2, 1, 0.5, 1, 0, 1, 1, 0.25, 4, 1, 1, 1, 0.5
+  ],
+  "Attaques": ["LanceFlammes"]
+}

@@ -1,0 +1,13 @@
+{
+  "_desc": "Florizarre",
+  "PointsDeVie": 40,
+  "PointsDeMouvement": 4,
+  "PointsDAction": 4,
+  "Attaque": 40,
+  "Defense": 40,
+  "Vitesse": 20,
+  "ValeursFaiblesses": [
+    1, 2, 0.5, 0.25, 0.5, 2, 0.5, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1
+  ],
+  "Attaques": ["TrancheHerbe"]
+}

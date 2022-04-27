@@ -1,0 +1,8 @@
+{"_desc":"LanceFlammes",
+    "Type":"Feu",
+    "Portee":1,
+    "Rayon":3,
+    "Forme":1,
+    "Puissance":30,
+    "Cout":3
+}

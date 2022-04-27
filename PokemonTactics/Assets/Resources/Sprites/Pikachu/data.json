@@ -1,0 +1,11 @@
+{
+  "_desc": "Pikachu",
+  "PointsDeVie": 20,
+  "PointsDeMouvement": 7,
+  "PointsDAction": 9,
+  "Attaque": 20,
+  "Defense": 20,
+  "Vitesse": 50,
+  "ValeursFaiblesses": [1, 1, 1, 1, 0.5, 1, 1, 1, 2, 0.5, 1, 1, 1, 1, 1, 1, 1],
+  "Attaques": ["FatalFoudre"]
+}
